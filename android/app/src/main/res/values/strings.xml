@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="facebook_app_id">496452465635636</string>
+    <string name="fb_login_protocol_scheme">fb496452465635636</string>
+    <string name="facebook_client_token">5c4ba7cbf8c51ffc08592c61f1ed6639</string>
+    <string name="app_name">Ojolali</string>
+</resources>

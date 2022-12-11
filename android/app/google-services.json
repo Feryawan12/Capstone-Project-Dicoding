@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "369125469743",
+    "project_id": "ojolali-13037",
+    "storage_bucket": "ojolali-13037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369125469743:android:aac818b622090cdca760da",
+        "android_client_info": {
+          "package_name": "com.example.schedule_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369125469743-o36253855gte99i9ma9pmsppse1j5ks5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schedule_app",
+            "certificate_hash": "2680e8eab133fc2ac638e9e98510fc4d155576df"
+          }
+        },
+        {
+          "client_id": "369125469743-8dso1igbej10p1ij43oolr2n9m478t2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwpza3YRBOHyomKYjjXWAzH3aQfLnYe0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369125469743-8dso1igbej10p1ij43oolr2n9m478t2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369125469743-tbfo2oia5f2lbebhv3281j652755v1bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scheduleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
